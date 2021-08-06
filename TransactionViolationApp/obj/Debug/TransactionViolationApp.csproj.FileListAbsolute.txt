@@ -1,0 +1,7 @@
+D:\test\ADO .NET\TransactionViolationApp\bin\Debug\TransactionViolationApp.exe.config
+D:\test\ADO .NET\TransactionViolationApp\bin\Debug\TransactionViolationApp.exe
+D:\test\ADO .NET\TransactionViolationApp\bin\Debug\TransactionViolationApp.pdb
+D:\test\ADO .NET\TransactionViolationApp\obj\Debug\TransactionViolationApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\TransactionViolationApp\obj\Debug\TransactionViolationApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\TransactionViolationApp\obj\Debug\TransactionViolationApp.exe
+D:\test\ADO .NET\TransactionViolationApp\obj\Debug\TransactionViolationApp.pdb
